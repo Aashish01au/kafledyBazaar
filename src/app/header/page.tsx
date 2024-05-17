@@ -43,7 +43,7 @@ const HeaderPage = () => {
 </div>
         </div>
         <div className="flex justify-between items-center mx-[100px] py-3 bg-red-500 rounded-md px-5  ">
-<div className="text-white flex py-3 gap-5 font-medium">
+<div className="text-white flex px-2 gap-5 font-medium">
 
 <p>Home</p>
 <p>All categories</p>
